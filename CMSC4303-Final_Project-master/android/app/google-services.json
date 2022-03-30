@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741841415485",
+    "project_id": "cmsc4303-stephens-lesson3",
+    "storage_bucket": "cmsc4303-stephens-lesson3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741841415485:android:c184dd8b9f5807f0cf6954",
+        "android_client_info": {
+          "package_name": "edu.uco.ssandini.map.lesson3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741841415485-cak7hk5me5fima9889616j799n0cibqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaI0_t9e6npJBQuKKnIvH8YC4yimZEKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741841415485-cak7hk5me5fima9889616j799n0cibqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
